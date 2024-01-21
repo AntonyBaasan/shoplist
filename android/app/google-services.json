@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "105778870352",
+    "project_id": "hashitta-baas",
+    "storage_bucket": "hashitta-baas.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:105778870352:android:0f3a822a05a63ad6ff3955",
+        "android_client_info": {
+          "package_name": "com.example.shoplist"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGJd5S6Pwg5Al6VonaNhc81yL4ITbJgeg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
